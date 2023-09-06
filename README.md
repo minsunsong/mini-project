@@ -29,11 +29,11 @@
 
 # 5.1. 구현된 모습
   1) 메인 화면(index.html): 나들이 장소 / 여행 일정 2가지 선택지 중 원하는 주제 선택
-     ![image](https://github.com/minsunsong/mini-project/assets/142385663/98ebc736-7ff8-4a86-a32f-d04a870cb819)
+     
   2) 나들이 장소 클릭 시 화면 (outing.html): 장소 추천을 위해 선택지 제공
-     ![image](https://github.com/minsunsong/mini-project/assets/142385663/234f2ee3-6e12-42e1-b8c7-393832bb975c)
+
   3) 장소 추천 화면 (outing2.html)
-     ![image](https://github.com/minsunsong/mini-project/assets/142385663/0c37385e-c2cd-42f0-9b02-97f59486cf4e)
+     
 
 
 # 6. 기술 및 개발 환경
