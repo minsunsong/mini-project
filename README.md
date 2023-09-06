@@ -29,6 +29,8 @@
 
 # 6. 기술 및 개발 환경
 - HTML, CSS, JS
+- [project.pdf](https://github.com/minsunsong/mini-project/files/12540468/project.pdf)
+
 
 # 7. 프로젝트 후기
 - 기획 단계: 주제 선정에 오랜 고민을 하였고, 주제를 선정한 이후에도 어떠한 기능을 구현할지 깊게 생각하게 되었습니다.
