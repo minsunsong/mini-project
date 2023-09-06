@@ -31,11 +31,11 @@
   1) 메인 화면(index.html): [애견 동반] 나들이 장소 / 여행 일정 - 2가지 선택지 중 원하는 주제 선택
     ![image](https://github.com/minsunsong/mini-project/assets/142385663/8c14697b-1958-4798-bdac-d44d4828a841)
 
-  2) 나들이 장소 클릭 시 화면 (outing.html): 장소 추천을 위해 선택지 제공
-     
-    ![image](https://github.com/minsunsong/mini-project/assets/142385663/91d4e246-4179-4277-8855-c69d0944ebcc)
+  2) 나들이 장소 클릭 시 화면 (outing.html)
+    ![image](https://github.com/minsunsong/mini-project/assets/142385663/cb77cb31-e580-4ccd-9b24-f1e019265d38)
 
-  3) 장소 추천 화면 (outing2.html) : TOP 3 장소 선정
+
+  4) 장소 추천 화면 (outing2.html) : TOP 3 장소 선정
     ![image](https://github.com/minsunsong/mini-project/assets/142385663/f573ac05-4826-480d-8e45-8f248c7b5053)
 
 
