@@ -28,9 +28,12 @@
   3) 챗봇 서비스: 챗봇 버튼 클릭 -> 챗봇 서비스가 실시간으로 소통할 수 있는 기능을 제공한다.
 
 # 5.1. 구현된 모습
-- 1) 메인 화면:
+  1) 메인 화면(index.html):
      ![image](https://github.com/minsunsong/mini-project/assets/142385663/1138fc6d-3f6e-4d60-9c0e-cd8744f2db0b)
      -> 나들이 장소 / 여행 일정 2가지 선택지 중 원하는 주제 선택
+  2) 나들이 장소 클릭 시 화면 (outing.html)
+     ![image](https://github.com/minsunsong/mini-project/assets/142385663/bd5a9343-046e-4d58-b437-88d388e58d4d)
+     -> 장소 추천을 위해 선택지 제공
 
 # 6. 기술 및 개발 환경
 - HTML, CSS, JS
