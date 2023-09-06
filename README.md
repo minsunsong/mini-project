@@ -27,18 +27,6 @@
   2) 여행 일정 추천: 정보 입력 -> open ai가 입력 받은 정보를 바탕으로 추천 내용을 출력한다.
   3) 챗봇 서비스: 챗봇 버튼 클릭 -> 챗봇 서비스가 실시간으로 소통할 수 있는 기능을 제공한다.
 
-# 5.1. 구현된 모습
-  1) 메인 화면(index.html): [애견 동반] 나들이 장소 / 여행 일정 - 2가지 선택지 중 원하는 주제 선택
-    ![image](https://github.com/minsunsong/mini-project/assets/142385663/05fadeea-3838-476a-9d02-8bdb44971fd8)
-
-  2)
-    ![image](https://github.com/minsunsong/mini-project/assets/142385663/064c5cd3-0e4e-4a62-8df7-68074d9953be)
-
-  3) 장소 추천 화면 (outing2.html) : TOP 3 장소 선정
-    ![image](https://github.com/minsunsong/mini-project/assets/142385663/f573ac05-4826-480d-8e45-8f248c7b5053)
-
-
-
 # 6. 기술 및 개발 환경
 - HTML, CSS, JS
 
