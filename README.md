@@ -32,9 +32,9 @@
     ![image](https://github.com/minsunsong/mini-project/assets/142385663/8c14697b-1958-4798-bdac-d44d4828a841)
 
   2) 나들이 장소 클릭 시 화면 (outing.html)
-  ![image](https://github.com/minsunsong/mini-project/assets/142385663/cb77cb31-e580-4ccd-9b24-f1e019265d38)
+    ![image](https://github.com/minsunsong/mini-project/assets/142385663/064c5cd3-0e4e-4a62-8df7-68074d9953be)
 
-  4) 장소 추천 화면 (outing2.html) : TOP 3 장소 선정
+  3) 장소 추천 화면 (outing2.html) : TOP 3 장소 선정
     ![image](https://github.com/minsunsong/mini-project/assets/142385663/f573ac05-4826-480d-8e45-8f248c7b5053)
 
 
