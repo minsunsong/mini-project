@@ -29,7 +29,7 @@
 
 # 5.1. 구현된 모습
   1) 메인 화면(index.html): [애견 동반] 나들이 장소 / 여행 일정 - 2가지 선택지 중 원하는 주제 선택
-    ![image](https://github.com/minsunsong/mini-project/assets/142385663/8c14697b-1958-4798-bdac-d44d4828a841)
+    ![image](https://github.com/minsunsong/mini-project/assets/142385663/05fadeea-3838-476a-9d02-8bdb44971fd8)
 
   2)
     ![image](https://github.com/minsunsong/mini-project/assets/142385663/064c5cd3-0e4e-4a62-8df7-68074d9953be)
