@@ -34,7 +34,6 @@
 
 # 6. 기술 및 개발 환경
 - HTML, CSS, JS
-- [project.pdf](https://github.com/minsunsong/mini-project/files/12540468/project.pdf)
 
 
 # 7. 프로젝트 후기
